@@ -32,11 +32,11 @@
         <libthrift.version>0.11.0</libthrift.version>
     </properties>
     <dependencies>
-        <dependency>
+       <!-- <dependency>
             <groupId>org.apache.dubbo</groupId>
             <artifactId>dubbo-rpc-native-thrift</artifactId>
             <version>${dubbo-rpc-native-thrift.version}</version>
-        </dependency>
+        </dependency>-->
         <dependency>
             <groupId>org.apache.thrift</groupId>
             <artifactId>libthrift</artifactId>
